@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToolBox2", "Arac_Kullanimlari2\ToolBox2.csproj", "{9966EDEA-BCB0-4FE4-95D9-5DF2AC60922E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9966EDEA-BCB0-4FE4-95D9-5DF2AC60922E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9966EDEA-BCB0-4FE4-95D9-5DF2AC60922E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9966EDEA-BCB0-4FE4-95D9-5DF2AC60922E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9966EDEA-BCB0-4FE4-95D9-5DF2AC60922E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A54F869-AD3D-4FF2-A44F-9758BC424C69}
+	EndGlobalSection
+EndGlobal
